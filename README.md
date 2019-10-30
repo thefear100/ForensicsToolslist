@@ -2,7 +2,7 @@
 List of tools useful for digital forensics and incident response (DFIR)
 
 ## Evidence Collection
-* [Cylr](https://github.com/orlikoski/CyLR)
+* [CyLR](https://github.com/orlikoski/CyLR)
 * [KAPE](https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape)
 * [SIFT](https://digital-forensics.sans.org/community/downloads)
 
